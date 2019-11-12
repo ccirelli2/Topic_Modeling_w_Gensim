@@ -10,6 +10,8 @@ LDA                 LDA’s approach to topic modeling is it considers each docu
                     ** so it doesn't actually give you a topic but a group of colocated key words
                     that represent a topic. The reader must infer from these key words the
                     "meaning of the topic". 
+
+Gensim docs         https://radimrehurek.com/gensim/auto_examples/index.html
 '''
 
 # IMPORT PYTHON PACKAGES ------------------------------------
@@ -177,7 +179,11 @@ vis
 
 
 
+# TOPIC COHERENCE & OPTIMAL NUM OF TOPICS
 
+'''
+http://qpleple.com/topic-coherence-to-evaluate-topic-models/
+'''
 
 
 
